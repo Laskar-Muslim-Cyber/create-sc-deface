@@ -6,4 +6,8 @@ $chmod +x *
 $python2 create-sc.py
 
 
+Untuk cara nya yg masih blm paham cek web kami 
+
+https://laskar-muslim-cyber.blogspot.com/2019/08/creator-sc-deface.html
+
 Selamat mencoba
